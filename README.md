@@ -16,8 +16,12 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 > &lt;Datum&gt; [ &lt;odpočet&gt;, &lt;počet_normostran&gt;/60 ] &lt;strávený čas&gt; 
 > - &lt;bod_činnosti&gt;
 
+### 6.3.2024 [ D-59, 2/60] - 3h
+- Dokončení [přednášky][2]
+- Dopsání žurnálu
+
 ### 6.3.2024 [ D-60, 2/60] - 3h
-- Dokončení [přednášky][1], započetí rychlé rekapitulace [přednášky 10 | RNN z cs231n](https://www.youtube.com/watch?v=6niqTuYFZLQ), pro lepší porozomění architektur za generátory i detektory deepfake.
+- Dokončení [přednášky][1], započetí rychlé rekapitulace [přednášky 10 | RNN z cs231n][2], pro lepší porozomění architektur za generátory i detektory deepfake.
 - Zakládání a nastavování repozitáře.
 
 - Během předášky jsem zjistil potřebu osvěžení si:
@@ -59,6 +63,28 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 
 ### 3.3.2024 - 4h
 
+- Vyhledávání nejaktuálnějších článků se záměrem najít co nejaktuálnější datasety, modely pro generování i detekci.
+
+- Nalezené články:
+
+| Datum přijetí | HREF | Poznámky |
+|---|---|---|
+| v3 z 15.2.2024 | [A Review of Deep Learning-based Approaches for Deepfake Content Detection](https://arxiv.org/abs/2202.06095) | Transformers, 12 datasetů |
+| 16.12.2023 | [A Contemporary Survey on Deepfake Detection: Datasets, Algorithms, and Challenges](https://www.mdpi.com/2079-9292/13/3/585) | Schémata modelů na detekci deepfakes |
+| 26.10.2023 | [A Comprehensive Review of DeepFake Detection Using Advanced Machine Learning and Fusion Methods](https://www.mdpi.com/2079-9292/13/1/95#table_body_display_electronics-13-00095-t002) | Schémata modelů na generování |
+| 19.9.2023 | [Deepfake Attacks: Generation, Detection, Datasets, Challenges, and Research Directions](https://www.mdpi.com/2073-431X/12/10/216) | Detection clues, 12 datasetů |
+| 15.6.2023 | [A survey on deepfake video detection datasets](https://www.researchgate.net/publication/374142887_A_survey_on_deepfake_video_detection_datasets) | 13 datasetů, poslední z Jul 21 |
+| 21.5.2023 | [Deepfakes: evolution and trends](https://link.springer.com/article/10.1007/s00500-023-08605-y) | Motivace za vývojem deepfake, použití, trendy |
+| 11.8.2022 | [Hybrid Transformer Network for Deepfake Detection](https://arxiv.org/abs/2208.05820) | Detekce pomocí transformeru |
+| 2.2.2022 | [A literature review and perspectives in deepfakes: generation, detection, and applications ](https://link.springer.com/article/10.1007/s13735-022-00241-w) | hrozby, kategorie Entire Image Synthesis |
+
+## Poznánky k praktické části
+
+### GCP/Vertex AI
+- [YT - List (asi) všech google tutoriálů](https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)
+- [YT - Custom models on Vertex AI](https://www.youtube.com/watch?v=VRQXIiNLdAk)
+- [GGL - Custom models on Vertex AI](https://cloud.google.com/vertex-ai/docs/start/training-guide)
+- [Medium - Keras on GCP](https://medium.com/@natu.neeraj/training-a-keras-model-on-google-cloud-ml-cb831341c196)
 
 ## Vývoj
 1. Nainstalujte [pandoc](https://github.com/jgm/pandoc)
@@ -84,3 +110,4 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 - [Tracking word changes in git](https://olickel.com/tracking-word-documents-with-git)
 
 [1]:https://www.youtube.com/watch?v=5WoItGTWV54
+[2]:https://www.youtube.com/watch?v=6niqTuYFZLQ
