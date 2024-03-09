@@ -309,7 +309,7 @@ https://www.wired.com/story/most-deepfakes-porn-multiplying-fast/#:~:text=Resear
 DeepFake
 ========
 
-Text
+-  Include teoretical background into AI models as well
 
 History
 -------

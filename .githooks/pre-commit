@@ -3,3 +3,4 @@
 # pre-commit hook to automatically convert docx to rst for online preview
 
 pandoc --to=rst -o master_thesis.rst master_thesis.docx
+git add master_thesis.rst
