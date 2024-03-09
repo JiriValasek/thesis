@@ -16,7 +16,10 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 > &lt;Datum&gt; [ &lt;odpočet&gt;, &lt;počet_normostran&gt;/60 ] &lt;strávený čas&gt; 
 > - &lt;bod_činnosti&gt;
 
-### 6.3.2024 [ D-59, 2/60] - 3h
+### 8.3.2024 [ D-58, 2/60] - 3h
+- NIL
+
+### 7.3.2024 [ D-59, 2/60] - 3h
 - Dokončení [přednášky][2]
 - Dopsání žurnálu
 
