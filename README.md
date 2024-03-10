@@ -16,6 +16,9 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 > &lt;Datum&gt; [ &lt;odpočet&gt;, &lt;počet_normostran&gt;/60 ] &lt;strávený čas&gt; 
 > - &lt;bod_činnosti&gt;
 
+### 9.3.2024 [ D-56, 2/60] - 4h
+- Dokončena rekapitulace pro porozumění architekturám používaných pro generaci s [přednáškou 11 | Detekce a segmentace z cs231n ](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=12) a [přednáškou 8 | Self-Attention and Transformers z cs224n (2023)](https://www.youtube.com/watch?v=LWMzyfvuehA&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&index=8)
+- Pročítání review článků
 
 ### 9.3.2024 [ D-57, 2/60] - 0h
 - NIL
