@@ -16,7 +16,20 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 > &lt;Datum&gt; [ &lt;odpočet&gt;, &lt;počet_normostran&gt;/60 ] &lt;strávený čas&gt; 
 > - &lt;bod_činnosti&gt;
 
-### 9.3.2024 [ D-56, 2/60] - 4h
+### 12.3.2024 [ D-54, 2/60] - 4h
+- Pokračování v [The Creation and Detection of Deepfakes: A Survey][3]
+
+- Věci na které se podívat dále:
+  - Stěžejní architektury: CycleGAN, FSGAN, VGG-Face, pix2pix, U-Net
+  - Často používané techniky: Conditional VAE/GAN, One-Shot/few-shot learning (transfer learning), AdaIn vrstva
+  - Způsoby práce s obličejem (CV): facial landmarks, boundaries, 3D Morphable model, UV map
+  - Práce s audio (DSP): [MFCC](https://medium.com/@derutycsl/intuitive-understanding-of-mfccs-836d36a1f779)
+  - Připomenout si optical flow
+
+### 11.3.2024 [ D-55, 2/60] - 1h
+- Studování v [The Creation and Detection of Deepfakes: A Survey][3]
+
+### 10.3.2024 [ D-56, 2/60] - 4h
 - Dokončena rekapitulace pro porozumění architekturám používaných pro generaci s [přednáškou 11 | Detekce a segmentace z cs231n ](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=12) a [přednáškou 8 | Self-Attention and Transformers z cs224n (2023)](https://www.youtube.com/watch?v=LWMzyfvuehA&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&index=8)
 - Pročítání review článků
 
@@ -121,3 +134,4 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 
 [1]:https://www.youtube.com/watch?v=5WoItGTWV54
 [2]:https://www.youtube.com/watch?v=6niqTuYFZLQ
+[3]:https://arxiv.org/pdf/2004.11138.pdf
