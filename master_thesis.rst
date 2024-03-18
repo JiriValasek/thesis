@@ -415,15 +415,20 @@ Datasets
    Github <https://github.com/yuezunli/celeb-deepfakeforensics>`__
 
 -  `DF-W
-   Github <https://github.com/jmpu/webconf21-deepfakes-in-the-wild>`__
+   Github <https://github.com/jmpu/webconf21-deepfakes-in-the-wild>`__ –
+   send request via email (Google Form does not work)
 
 -  `CDDB Github <https://github.com/Coral79/CDDB>`__
 
--  `FF++ Github <https://github.com/ondyari/FaceForensics>`__
+-  `FF++ Github <https://github.com/ondyari/FaceForensics>`__ – aquired
+   compresion 23/40, not enough storage for raw
 
 -  `Facebook DFDC <https://ai.meta.com/datasets/dfdc/>`__ – requires AWS
    (`Transferring data from Amazon S3 to Cloud
    Storage <https://cloud.google.com/architecture/transferring-data-from-amazon-s3-to-cloud-storage-using-vpc-service-controls-and-storage-transfer-service>`__
+
+-  `DeepFakeTimid <https://www.idiap.ch/en/scientific-research/data/deepfaketimit>`__
+   - aquired
 
 ..
 

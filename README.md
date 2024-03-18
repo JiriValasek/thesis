@@ -16,6 +16,24 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 > &lt;Datum&gt; [ &lt;odpočet&gt;, &lt;počet_normostran&gt;/60 ] &lt;strávený čas&gt; 
 > - &lt;bod_činnosti&gt;
 
+### 17.3.2024 [ D-49, 2/60] - 8h
+- Stažení datasetů - FF++, CDDB, DeepFakeTIMID, zažádáno o DF-W
+- Seznámení se s [Deep Learning for Deepfakes Creation and Detection: A Survey](https://arxiv.org/abs/1909.11573)
+
+- Seznámení se s [Adversarial training](https://www.youtube.com/watch?v=CIfsB_EYsVI&t=92s), [Siamese Neural Network](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+
+### 16.3.2024 [ D-50, 2/60] - 0h
+- NIL
+
+### 15.3.2024 [ D-51, 2/60] - 0h
+- NIL
+  
+### 14.3.2024 [ D-52, 2/60] - 1h
+- VGG finetunning, masked multiplication
+
+### 13.3.2024 [ D-53, 2/60] - 2h
+- Dokončení v [The Creation and Detection of Deepfakes: A Survey][3]
+
 ### 12.3.2024 [ D-54, 2/60] - 4h
 - Pokračování v [The Creation and Detection of Deepfakes: A Survey][3]
 
