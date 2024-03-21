@@ -314,7 +314,18 @@ DeepFake
 History
 -------
 
-Text
+-  Alexnet, ImageChallenge CNN/DNN classifiers
+
+-  Fully Convolutional Networks - https://arxiv.org/abs/1411.4038
+
+-  U-NET - https://arxiv.org/abs/1505.04597,
+   https://pyimagesearch.com/2022/02/21/u-net-image-segmentation-in-keras/
+
+-  Pix2Pix – conditional GAN - https://arxiv.org/abs/1611.07004,
+   https://www.tensorflow.org/tutorials/generative/pix2pix
+
+-  Cycle GAN -
+   https://arxiv.org/abs/1703.10593,https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb
 
 Categories
 ----------

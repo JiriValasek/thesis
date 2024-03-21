@@ -16,6 +16,18 @@ Plánovaný termín odevzdání: 6.5.2024 (rezerva 1W)
 > &lt;Datum&gt; [ &lt;odpočet&gt;, &lt;počet_normostran&gt;/60 ] &lt;strávený čas&gt; 
 > - &lt;bod_činnosti&gt;
 
+### 20.3.2024 [ D-47, 2/60] - 4h
+- Studium článků o architekturách DeepFake
+  -	[U-NET](https://arxiv.org/abs/1505.04597), [kód](https://pyimagesearch.com/2022/02/21/u-net-image-segmentation-in-keras/)
+  -	[Pix2Pix – conditional GAN](https://arxiv.org/abs/1611.07004), [kód](https://www.tensorflow.org/tutorials/generative/pix2pix)
+  -	[Cycle GAN](https://arxiv.org/abs/1703.10593), [kód](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb)
+
+### 19.3.2024 [ D-47, 2/60] - 1h
+- Studium [Fully Convolutional Network] (https://arxiv.org/abs/1411.4038)
+
+### 18.3.2024 [ D-48, 2/60] - 0h
+- NIL - pracovní povinnosti
+
 ### 17.3.2024 [ D-49, 2/60] - 8h
 - Stažení datasetů - FF++, CDDB, DeepFakeTIMID, zažádáno o DF-W
 - Seznámení se s [Deep Learning for Deepfakes Creation and Detection: A Survey](https://arxiv.org/abs/1909.11573)
